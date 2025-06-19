@@ -24,7 +24,8 @@ The COVID-19 pandemic had a profound global impact, making real-time data analys
 
 - `covid_dataset.csv` – Original dataset used for analysis  
 - `covid_dataset_cleaned.xlsx` – Cleaned and processed dataset  
-- `covid_analysis_tableau_dashboard.png` – Tableau dashboard screenshot  
+- `covid_analysis_tableau_dashboard.png` – Tableau dashboard screenshot
+- `README.md` – Project documentation   
 
 ---
 
